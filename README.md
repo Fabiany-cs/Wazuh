@@ -1,1 +1,1 @@
-# Wazuh
+# Vulnerability Detection with Wazuh
