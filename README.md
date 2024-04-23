@@ -27,12 +27,15 @@
         <li>Download the <a href="https://www.virtualbox.org/wiki/Downloads">VirtualBox Platform Package</a> corresponding to your local machine </li>
         <li>Set the Ubuntu VM in Oracle VirtualBox:
             <ul>
-                <li>Username: wazuhadmin</li>
-                <li>Password: wazuhpassword123!</li>
+                <li>Make sure you allocate a minimum of 4 Gbs of ram and 2 cpus</li>
+                <li>Under network settings of the VM, make sure its under "Bridged Network" so all the devices can be on the same subnet.</li>
             </ul>
         </li>
         <li>Launch your Ubuntu VM and wait for the configuration and installation to complete.</li>
     </ol>
+    <img width="1437" alt="Screenshot 2024-04-22 at 9 54 20 AM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/60986f39-030a-433b-adb6-03c51b4d1fad">
+    <img width="1019" alt="Screenshot 2024-04-22 at 9 54 46 AM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/953e2860-a229-4192-bd77-22a2dd6f5c09">
+    <img width="817" alt="Screenshot 2024-04-22 at 10 00 00 AM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/731250c5-9858-47e9-91f3-a5c68113a221">
     <h2>Setting Up Wazuh Manager in Ubuntu Terminal</h2>
     <ol>
         <li>Open up a terminal in the Ubuntu machine and switch to root user.</li>
