@@ -45,7 +45,6 @@
         <li>Check your IP address using <code>ifconfig</code>. If not installed, run: <code>(sudo) apt install net-tools</code></li>
         <li>Access Wazuh Manager through Firefox using the IP address obtained. Accept the self-signed certificate and log in with the provided credentials.</li>
     </ol>
-
     <h2>Installing Agents</h2>
     <ol>
         <li>Install 3 agents: 1 on Kali Linux VM and 2 on macOS devices.</li>
@@ -59,20 +58,17 @@
         </li>
         <li>Check the status of each agent using <code>systemctl status wazuh-agent</code>.</li>
     </ol>
-
     <h2>Checking Wazuh Manager</h2>
     <ol>
         <li>In the Ubuntu VM, type <code>systemctl status wazuh-manager</code> to check if it's active and running.</li>
         <li>Verify in the Wazuh dashboard that the agents are activated.</li>
     </ol>
-
     <h2>Onboard MacMini - Personal Machine</h2>
     <ol>
         <li>Install agent on Mac OS (Intel) using the provided server IP and a name.</li>
         <li>Refresh the Wazuh Dashboard to confirm installation.</li>
         <li>Repeat the process for other personal devices, like MacBookPro.</li>
     </ol>
-
     <h2>Wazuh Dashboard</h2>
     <p>Explore the Wazuh Dashboard to:</p>
     <ul>
@@ -81,7 +77,6 @@
         <li>View security alerts and descriptions.</li>
         <li>Expand events for further evaluation.</li>
     </ul>
-
     <h2>Agents Tab</h2>
     <p>In the Agents Tab, you can:</p>
     <ul>
@@ -90,7 +85,6 @@
         <li>See failed benchmarks and remediation steps.</li>
         <li>View compliance based on various standards.</li>
     </ul>
-
     <h2>Additional XML Configuration</h2>
     <ol>
         <li>Access the Wazuh Manager machine.</li>
@@ -98,8 +92,6 @@
         <li>Enable additional configurations within the XML, such as vulnerability detection.</li>
         <li>Restart the system.</li>
         <li>Check the status using <code>systemctl status wazuh-manager</code>.</li>
-    </ol>
-
-  
+    </ol>  
 </body>
 </html>
