@@ -6,7 +6,7 @@
 </head>
 <body>
   <h1>Description:</h1>
-  <p>Welcome to the Vulnerability Detection with Wazuh project! This GitHub repository aims to provide a comprehensive guide and setup for utilizing Wazuh, an open-source security monitoring platform. In addition to vulnerability detection, Wazuh also serves as an XDR (Extended Detection and Response) / EDR (Endpoint Detection and Response) solution, offering threat intelligence, regulatory compliance monitoring, and cloud security capabilities. Whether you're a security enthusiast, a system administrator, or a developer, this project aims to empower you with the tools and knowledge needed to enhance the security of your environments.</p>
+  <p>Welcome to the EDR Monitoring with Wazuh (XDR) project! This GitHub repository aims to provide a comprehensive guide and setup for utilizing Wazuh, an open-source security monitoring platform. In addition to vulnerability detection, Wazuh also serves as an XDR (Extended Detection and Response) / EDR (Endpoint Detection and Response) solution, offering threat intelligence, regulatory compliance monitoring, and cloud security capabilities. Whether you're a security enthusiast, a system administrator, or a developer, this project aims to empower you with the tools and knowledge needed to enhance the security of your environments.</p>
 
   <h1>Features:</h1>
   <ul>
