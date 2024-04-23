@@ -111,6 +111,7 @@
         <li>Access the Wazuh Manager machine.</li>
         <li>Edit the <code>ossec.conf</code> file located in <code>/var/ossec/etc</code>.</li>
         <li>Enable additional configurations within the XML, such as vulnerability detection.</li>
+            <li>Change to yes. *See Below*</li>
         <li>Restart the system.</li>
         <li>Check the status using <code>systemctl status wazuh-manager</code>.</li>
     </ol> 
