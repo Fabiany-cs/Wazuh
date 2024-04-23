@@ -24,7 +24,7 @@
 <h2>Downloading Ubuntu ISO File for VM</h2>
     <ol>
         <li>Go to <a href="https://ubuntu.com/download/desktop">Ubuntu Download Page</a> and download Ubuntu 22.04.4 LTS ISO image.</li>
-        <li>Set up a VM in Oracle VirtualBox with the following credentials:
+        <li>Set the Ubuntu VM in Oracle VirtualBox:
             <ul>
                 <li>Username: wazuhadmin</li>
                 <li>Password: wazuhpassword123!</li>
