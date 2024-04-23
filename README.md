@@ -36,6 +36,7 @@
     <img width="1437" alt="Screenshot 2024-04-22 at 9 54 20 AM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/60986f39-030a-433b-adb6-03c51b4d1fad">
     <img width="1019" alt="Screenshot 2024-04-22 at 9 54 46 AM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/953e2860-a229-4192-bd77-22a2dd6f5c09">
     <img width="817" alt="Screenshot 2024-04-22 at 10 00 00 AM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/731250c5-9858-47e9-91f3-a5c68113a221">
+    <hr>
     <h2>Setting Up Wazuh Manager in Ubuntu Terminal</h2>
     <ol>
         <li>Open up a terminal in the Ubuntu machine and switch to root user.</li>
@@ -49,6 +50,11 @@
         <li>Check your IP address using <code>ifconfig</code>. If not installed, run: <code>(sudo) apt install net-tools</code></li>
         <li>Access Wazuh Manager through Firefox using the IP address obtained. Accept the self-signed certificate and log in with the provided credentials.</li>
     </ol>
+    <img width="1437" alt="Screenshot 2024-04-22 at 10 18 12 AM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/180d2e06-778d-46d3-9c09-8df608f09076">
+    <img width="1061" alt="Screenshot 2024-04-22 at 10 29 23 AM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/7488490e-ec96-4b7b-b987-1a83680c5074">
+    <img width="1302" alt="Screenshot 2024-04-22 at 10 38 21 AM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/9a2d79a6-f857-491a-9386-5addd6ba85a4">
+    <img width="1322" alt="Screenshot 2024-04-22 at 4 17 39 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/907fcf95-715f-4a2a-9acd-f106c32e1375">
+    
     <h2>Installing Agents</h2>
     <ol>
         <li>Install 3 agents: 1 on Kali Linux VM and 2 on macOS devices.</li>
