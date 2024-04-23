@@ -1,4 +1,4 @@
-# Vulnerability Detection with Wazuh
+# EDR Monitoring with Wazuh (XDR)
 <html lang="en">
 <head>
   <meta charset="UTF-8">
