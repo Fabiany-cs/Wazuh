@@ -71,7 +71,6 @@
     <img width="1318" alt="Screenshot 2024-04-22 at 4 21 31 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/dbee26f8-733a-44be-8100-2dd2c2631854">
     <img width="1318" alt="Screenshot 2024-04-22 at 4 27 41 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/1a9ce1dd-cc65-499d-897a-f3825845a073">
     <img width="1318" alt="Screenshot 2024-04-22 at 5 00 22 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/cb3a784e-3a78-4de4-89e3-906d0e10b0d1">
-    <img width="1318" alt="Screenshot 2024-04-22 at 4 36 04 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/3ecf90d6-f55c-4604-a8d3-1c297f97621c">
     <img width="770" alt="Screenshot 2024-04-22 at 5 44 22 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/1c0aaac0-d854-49b9-aa53-ec59e0496cf3">
     <h2>Checking Wazuh Manager</h2>
     <ol>
