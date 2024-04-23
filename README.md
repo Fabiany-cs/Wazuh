@@ -54,6 +54,7 @@
     <img width="1061" alt="Screenshot 2024-04-22 at 10 29 23 AM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/7488490e-ec96-4b7b-b987-1a83680c5074">
     <img width="1302" alt="Screenshot 2024-04-22 at 10 38 21 AM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/9a2d79a6-f857-491a-9386-5addd6ba85a4">
     <img width="1322" alt="Screenshot 2024-04-22 at 4 17 39 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/907fcf95-715f-4a2a-9acd-f106c32e1375">
+    <hr>
     <h2>Installing Agents</h2>
     <ol>
         <li>Install 3 agents: 1 on Kali Linux VM and 2 on macOS devices.</li>
@@ -72,6 +73,7 @@
     <img width="1318" alt="Screenshot 2024-04-22 at 4 27 41 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/1a9ce1dd-cc65-499d-897a-f3825845a073">
     <img width="1318" alt="Screenshot 2024-04-22 at 5 00 22 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/cb3a784e-3a78-4de4-89e3-906d0e10b0d1">
     <img width="770" alt="Screenshot 2024-04-22 at 5 44 22 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/1c0aaac0-d854-49b9-aa53-ec59e0496cf3">
+    <hr>
     <h2>Checking Wazuh Manager</h2>
     <ol>
         <li>In the Ubuntu VM, type <code>systemctl status wazuh-manager</code> to check if it's active and running.</li>
@@ -90,6 +92,7 @@
     <img width="1274" alt="Screenshot 2024-04-22 at 5 47 42 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/ac121438-943e-4b26-a587-4464062e6748">
     <img width="1274" alt="Screenshot 2024-04-22 at 5 48 43 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/2bd39bb1-72af-4fde-890d-850cc0f26117">
     <img width="1274" alt="Screenshot 2024-04-22 at 5 50 59 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/ac8b14b1-baed-4301-93c9-2126ce196589">
+    <hr>
     <h2>Agents Tab</h2>
     <p>In the Agents Tab, you can:</p>
     <ul>
@@ -99,10 +102,10 @@
         <li>View compliance based on various standards.</li>
     </ul>
     <img width="1274" alt="Screenshot 2024-04-22 at 5 52 24 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/670a9a12-bc46-4972-8c26-5fd2a4ecd348">
-    <img width="1274" alt="Screenshot 2024-04-22 at 5 54 42 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/19da8725-5f30-48d2-af60-3792b00025c3">
     <img width="1274" alt="Screenshot 2024-04-22 at 5 54 42 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/fd261c3d-a8bd-4f8f-a1be-04e89bbe5b91">
     <img width="1274" alt="Screenshot 2024-04-22 at 5 55 50 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/d3968222-6aa0-4e2f-86bf-1527535c08c2">
     <img width="1274" alt="Screenshot 2024-04-22 at 5 57 36 PM" src="https://github.com/Fabiany-cs/Fabiany-cs/assets/107880960/f8cda486-5f52-4442-a942-f71e59b19d90">
+    <hr>
     <h2>Additional XML Configuration</h2>
     <ol>
         <li>Access the Wazuh Manager machine.</li>
