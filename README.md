@@ -1,12 +1,8 @@
 # EDR Monitoring with Wazuh (XDR)
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
 <body>
   <h1>Description:</h1>
   <p>Welcome to the EDR Monitoring with Wazuh (XDR) project! This GitHub repository aims to provide a comprehensive guide and setup for utilizing Wazuh, an open-source security monitoring platform. In addition to vulnerability detection, Wazuh also serves as an XDR (Extended Detection and Response) / EDR (Endpoint Detection and Response) solution, offering threat intelligence, regulatory compliance monitoring, and cloud security capabilities. Whether you're a security enthusiast, a system administrator, or a developer, this project aims to empower you with the tools and knowledge needed to enhance the security of your environments.</p>
+  <img width="829" alt="Screenshot 2024-05-22 at 3 27 41 PM" src="https://github.com/Fabiany-cs/Wazuh/assets/107880960/a176b2f2-31a2-43d1-9225-a945071ed1dc">
 
   <h1>Features:</h1>
   <ul>
